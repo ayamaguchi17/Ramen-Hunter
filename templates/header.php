@@ -7,10 +7,6 @@
     <!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
     
 
-    <!-- <style type="text/css"> -->
-        
-
-    </style>
 </head>
 <html>
 <body class ="#fbe9e7 deep-orange lighten-5">
@@ -24,5 +20,5 @@
     </nav>
     
     <!-- Compiled and minified JavaScript -->
-    <!-- <script type="text/javascript" src="js/materialize.min.js"></script> -->
+    <!-- <script type="text/javascript" src="js/materialize.js"></script> -->
     
